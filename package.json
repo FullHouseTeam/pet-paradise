@@ -28,6 +28,7 @@
     "@angular/cli": "~16.2.0",
     "@angular/compiler-cli": "~16.2.0",
     "@angular/language-service": "~16.2.0",
+    "@nx-dotnet/core": "^2.1.1",
     "@nx/cypress": "17.0.3",
     "@nx/eslint": "17.0.3",
     "@nx/eslint-plugin": "17.0.3",
